@@ -1,0 +1,53 @@
+* {
+  background-color: rgb(105, 222, 238);
+}
+p {
+  font-size: 30px;
+  color: rgb(50, 66, 158);
+}
+h1 {
+  font-size: 80px;
+  text-align: center;
+  color: rgb(31, 17, 226);
+}
+.image {
+  display: flex;
+  /* flex-direction: column; */
+  justify-content: center;
+}
+.vegetable-garden {
+  max-height: 300vh;
+  max-width: 400vh;
+}
+.healthy-family {
+  max-height: 300vh;
+  max-width: 400vh;
+}
+.antioxidant {
+  max-height: 300vh;
+  max-width: 400vh;
+}
+.healthy-heart {
+    max-height: 300vh;
+    max-width: 400vh;
+}
+.immune-system {
+    max-height: 300vh;
+    max-width: 400vh;
+}
+.tasty-food {
+    max-height: 300vh;
+    max-width: 400vh;
+}
+.text {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+}
+.para1 {
+  align-items: left;
+}
+.para2 {
+    align-items: left;
+  }
